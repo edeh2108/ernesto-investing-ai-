@@ -1,0 +1,10 @@
+streamlit>=1.36
+pymongo[srv]>=4.7
+dnspython>=2.6
+pandas>=2.2
+numpy
+plotly>=5.22
+yfinance>=0.2.40
+scikit-learn>=1.4
+tensorflow
+vaderSentiment>=3.3.2
